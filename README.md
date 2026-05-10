@@ -5,7 +5,6 @@
 ---
 
 ## About Me
-- 🌐 **Web/UI Designer**
 - ☁️ **Cloud Computing Student**
 - 💻 **Developer**
 
